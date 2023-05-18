@@ -1,0 +1,21 @@
+{
+  "name": "original",
+  "displayName": "original",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "gaetheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gaetheme-color-theme.json"
+      }
+    ]
+  }
+}
